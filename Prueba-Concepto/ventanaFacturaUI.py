@@ -1,6 +1,4 @@
 import tkinter
-#import tkinter 
-#from tkinter import ttk
 from tkinter import PhotoImage
 
 fuenteTitulo="Helvetica 20"
